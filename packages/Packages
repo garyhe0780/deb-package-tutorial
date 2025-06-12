@@ -1,0 +1,28 @@
+Package: mypackage
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: flavienbwk
+Depends: curl,zenity
+Filename: ./mypackage_1.0_all.deb
+Size: 6408
+MD5sum: 35909ae0306f00a6827f1e7501e8482c
+SHA1: 3d7a8b7631382657a03a5316b070b8d2d39acd7a
+SHA256: 67347cb57c19f043ce13ba3b573088f185d2beebe7a92a7b192cbdd321e87931
+Priority: optional
+Description: A sample package creating a shortcut that triggers a bash script opening a link to the official Ubuntu website
+
+Package: mypackage
+Version: 1.1
+Architecture: all
+Essential: no
+Maintainer: flavienbwk
+Depends: curl,zenity
+Filename: ./mypackage_1.1_all.deb
+Size: 6410
+MD5sum: 5afb5ddd6fd21641ce5a202ca7174eee
+SHA1: 557aa9e8be97c4478185547fc84fdda4e3571886
+SHA256: fce23ce7125de0c205fca0361d92196b3be3f7c8d6d34d09ea654334b0e537ce
+Priority: optional
+Description: A sample package creating a shortcut that triggers a bash script opening a link to the official Ubuntu website
+
